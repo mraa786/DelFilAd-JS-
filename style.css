@@ -1,0 +1,10 @@
+.mainfooter{
+    background: rgb(56, 127, 73);
+    padding: 16px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    margin-top: 16px;
+    font-weight: 600;
+    border-radius: 12px;
+}
